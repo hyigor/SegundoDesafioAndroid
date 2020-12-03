@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SegundoDesafioKotlin</string>
+    <string name="welcome">Welcome to the Marvel HQs</string>
+    <string name="numero">Numero</string>
+</resources>
